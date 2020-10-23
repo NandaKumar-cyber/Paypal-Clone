@@ -1,0 +1,33 @@
+.img{
+    width: 40px;
+    height: 40px;
+    
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.icons{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.images{
+  text-align: center;
+
+}
+.links{
+    padding: 15px;
+  
+}
+.li{
+    align-items: center;
+    text-align: center;
+}
+h5{
+    align-items: center;
+    text-align: center;
+    color: blue;
+    margin-top: 15px;
+}
